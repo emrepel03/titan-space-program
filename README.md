@@ -71,7 +71,7 @@ To simulate atmospheric conditions (without UI), run the `WindExperiments` class
 ## 📄 Documentation
 
 Full API reference available in the Javadoc.  
-👉 Open [`docs/index.html`](docs/index.html) manually in your browser if VS Code cannot preview it.
+👉 [Click here to view full Javadoc online](https://emrepel03.github.io/titan-space-program/)
 
 ---
 

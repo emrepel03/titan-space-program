@@ -11,8 +11,5 @@
 .gradle/
 /out/
 
-# Javadoc (optional if you want to host it elsewhere)
-docs/
-
 # VSCode settings
 .vscode/
