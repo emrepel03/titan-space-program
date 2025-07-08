@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.titan.model.CelestialObjectTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-07-07T23:00:32" hostname="MacBook-Pro-van-Emre.local" time="0.012">
+  <properties/>
+  <testcase name="testGetPosition" classname="com.titan.model.CelestialObjectTest" time="0.01"/>
+  <testcase name="testGetColor" classname="com.titan.model.CelestialObjectTest" time="0.001"/>
+  <testcase name="testToString" classname="com.titan.model.CelestialObjectTest" time="0.0"/>
+  <testcase name="testGetVelocity" classname="com.titan.model.CelestialObjectTest" time="0.0"/>
+  <testcase name="testGetMass" classname="com.titan.model.CelestialObjectTest" time="0.0"/>
+  <testcase name="testGetName" classname="com.titan.model.CelestialObjectTest" time="0.0"/>
+  <testcase name="testUpdatePosition" classname="com.titan.model.CelestialObjectTest" time="0.0"/>
+  <testcase name="testGetHistoricPositions" classname="com.titan.model.CelestialObjectTest" time="0.001"/>
+  <testcase name="testGetDiameter" classname="com.titan.model.CelestialObjectTest" time="0.0"/>
+  <testcase name="testUpdateVelocity" classname="com.titan.model.CelestialObjectTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
