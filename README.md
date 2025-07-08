@@ -70,8 +70,7 @@ To simulate atmospheric conditions (without UI), run the `WindExperiments` class
 
 ## 📄 Documentation
 
-Full API reference available in the Javadoc.  
-👉 [Click here to view full Javadoc online](https://emrepel03.github.io/titan-space-program/)
+Full API reference available in the [Javadoc](https://emrepel03.github.io/titan-space-program/).
 
 ---
 
