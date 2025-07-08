@@ -1,0 +1,18 @@
+# Ignore build and IDE clutter
+/build/
+/bin/
+/.idea/
+/*.iml
+*.class
+*.log
+.DS_Store
+
+# Gradle
+.gradle/
+/out/
+
+# Javadoc (optional if you want to host it elsewhere)
+docs/
+
+# VSCode settings
+.vscode/
